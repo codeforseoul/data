@@ -7,16 +7,10 @@ This repository includes all datasets we wrangle or crawl at Code for Seoul.
 목록(List of Datasets)
 ----------------------
 
-#### 정치(Politics)
+#### [정치(Politics)](politics)
 
-- 19대 국회의원 데이터
-  - 소스코드
-    - [크롤러](https://github.com/codeforseoul/congress-report/blob/master/crawl_assembly_people.py)
-  - 출처
-    - [팀포퐁](https://github.com/teampopong/data-assembly/blob/master/assembly.json)
-    - [열려라 국회](http://watch.peoplepower21.org/)
-    - [참여연대](http://www.peoplepower21.org/)
-
+- 19대 국회의원 프로필
+- 19대 국회의원 본회의/상임위원회 출석 정보
 
 라이센스(License)
 -----------------
