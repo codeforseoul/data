@@ -1,0 +1,144 @@
+{
+  "name": "south-korean-national-assembly-members",
+  "title": "대한민국 국회의원 명단, South Korean Assembly Members",
+  "license": "CC-BY-4.0",
+  "source": [{
+    "name": "참여연대(열려라 국회), People's Solidarity for Participatory Democracy",
+    "web": "http://watch.peoplepower21.org/"
+  }, {
+    "name": "팀포퐁, Team Popong",
+    "web": "http://popong.com/"
+  }, {
+    "name": "의원님을 부탁해, Congress Report",
+    "web": "https://github.com/codeforseoul/congress-report"
+  }],
+  "maintainers": [{
+    "name": "Hoony Jang",
+    "email": "thechunsik@gmail.com"  
+  }],
+  "keywords": ["congress", "national assembly", "국회의원", "대한민국"],
+  "resources": [
+    {
+      "name": "19th-south-korean-national-assembly-members",
+      "path": "data/19th.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 366175,
+      "schema": {
+        "fields": [
+          {
+            "name": "birth",
+            "type": "date",
+            "description": ""
+          },
+          {
+            "name": "homepage",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "name_cn",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "photo",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "hobby",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "experience",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "party",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "sc_secrs",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "assembly_idx",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "popong_idx",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "email",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "name_kr",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "aides",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "district",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "committee",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "off_phone",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "when_elected",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "idx",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "pr_secrs",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "name": "assembly_members",
+  "title": "",
+  "description": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0"
+}
