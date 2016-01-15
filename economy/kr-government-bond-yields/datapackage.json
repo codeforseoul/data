@@ -1,0 +1,35 @@
+{
+  "name": "kr-government-bond-yields",
+  "title": "South Korea Government Bond Yields",
+  "description": "3년 만기 대한민국 정부채권 수익률",
+  "version": "0.1.0",
+  "license": "CC-BY-4.0",
+  "source": [{
+    "name": "e-나라지표",
+    "web": "http://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=2884"
+  }],
+  "keywords": ["국고채", "국채", "정부채권", "bond yields", "government", "대한민국"],
+  "resources": [
+    {
+      "name": "data",
+      "path": "data/data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 280,
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "type": "date",
+            "description": ""
+          },
+          {
+            "name": "rate",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ]
+}

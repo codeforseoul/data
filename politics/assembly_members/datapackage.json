@@ -1,6 +1,7 @@
 {
   "name": "south-korean-national-assembly-members",
-  "title": "대한민국 국회의원 명단, South Korean Assembly Members",
+  "title": "South Korean Assembly Members",
+  "description": "대한민국 국회의원 명단",
   "license": "CC-BY-4.0",
   "source": [{
     "name": "참여연대(열려라 국회), People's Solidarity for Participatory Democracy",
@@ -134,11 +135,5 @@
         ]
       }
     }
-  ],
-  "name": "assembly_members",
-  "title": "",
-  "description": "",
-  "homepage": "",
-  "version": "0.1.0",
-  "license": "ODC-PDDL-1.0"
+  ]
 }
