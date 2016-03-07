@@ -1,5 +1,5 @@
 {
-  "name": "2014-south-korean-national-assembly-members-expenditure",
+  "name": "2014-south-korean-national-assembly-members-expenditure-for-food",
   "title": "2014 Expenditure of South Korean Assembly Members",
   "description": "대한민국 국회의원 정치후원금 수입/지출 내역(이 중 후원금 상위 20명에 해당하는 국회의원이 지출한 목록 중에 음식점 항목만 포함되어 있음)",
   "license": "CC-BY-4.0",
@@ -7,13 +7,45 @@
     "name": "중앙선거관리위원회",
     "web": ""
   }],
+  "contributors":[{
+    "name": "서정규"
+  }, {
+    "name": "조용현"
+  }, {
+    "name": "홍영택"
+  }, {
+    "name": "김보람"
+  }, {
+    "name": "윤예지"
+  }, {
+    "name": "이광춘"
+  }, {
+    "name": "이호균"
+  }, {
+    "name": "서기호"
+  }, {
+    "name": "김진형"
+  }, {
+    "name": "신민욱"
+  }, {
+    "name": "장승훈"
+  }, {
+    "name": "이지원"
+  }, {
+    "name": "연다혜"
+  }, {
+    "name": "김서연"
+  }],
   "maintainers": [{
+    "name": "장승훈(Hoony Jang), thechunsik@cckorea.org"
+  }],
+  "publishers": [{
     "name": "장승훈(Hoony Jang), thechunsik@cckorea.org"
   }],
   "keywords": ["congress", "national assembly", "국회의원", "대한민국", "expenditure", "수입", "지출"],
   "resources": [
     {
-      "name": "2014-south-korean-national-assembly-members-expenditure",
+      "name": "2014-south-korean-national-assembly-members-expenditure-for-food",
       "path": "data/data.csv",
       "format": "csv",
       "mediatype": "text/csv",
