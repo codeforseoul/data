@@ -38,3 +38,18 @@ References
         * `date`: 회의 날짜
         * `turn`: 회의 회차
         * `status`: 의안 가결 결과
+* 19대 국회의원 중 후원금 상위 20명의 음식점 지출 내역
+    * path: `assembly_expenditure`
+    * source:
+        * [중앙선거관리위원회](http://www.nec.go.kr)
+        * [PDF 원본](https://www.dropbox.com/sh/4uc1itlp6wh7a5r/AAAWiuEGwesnCQpvrAO-Fe8va?dl=0)
+    * contribute:
+        * 이 데이터는 코드포서울이 주최한 2016 CodeAcross 행사에서 서정규, 조용현, 홍영택, 윤예지, 이광춘, 이호균, 서기호, 김진형, 신민욱, 장승훈, 이지원님의 기여로 제작되었습니다.
+    * columns
+        * `name`: 의원 성명
+        * `party`: 소속 정당
+        * `organization_name`: 법인/단체명
+        * `organization_address`: 법인/단체 주소
+        * `food`: 음식 종류
+        * `amount`: 금액(원)
+        * `purpose`: 목적

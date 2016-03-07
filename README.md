@@ -12,6 +12,7 @@ This repository includes all datasets we wrangle or crawl at Code for Seoul.
 * 19대 국회의원 프로필
 * 19대 국회의원 본회의/상임위원회 출석 정보
 * 19대 국회의원 표결 현황
+* 19대 국회의원 중 후원금 상위 2명의 음식점 지출 내역
 
 #### [경제(economy)](economy)
 
